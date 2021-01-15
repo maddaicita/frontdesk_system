@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user" value="name:users_id;datatype:int,name:last_name;datatype:string,name:first_name;datatype:string,name:user_admin;datatype:int" />
+	<infoitem key="UD_emp" value="name:users_id;datatype:int,name:last_name;datatype:string,name:first_name;datatype:string" />
+	<infoitem key="UD_hours" value="name:hours_id;datatype:int,name:users_id;datatype:int,name:shift_start;datatype:datetime,name:shift_end;datatype:datetime,name:loc_id;datatype:int,name:comments;datatype:string,name:hours;datatype:string,name:admin_id;datatype:int,name:approved;datatype:int,name:location;datatype:string" />
+	<infoitem key="UD_schedule" value="name:sch_id;datatype:int,name:sch_date;datatype:date,name:shift_time;datatype:string,name:location;datatype:string" />
+	<infoitem key="UD_finger" value="name:sch_date;datatype:date,name:week;datatype:int,name:users_id;datatype:int,name:sch_id;datatype:int,name:shift_time;datatype:string,name:location;datatype:string" />
+	<infoitem key="UD_settings" value="name:id;datatype:int,name:date_start;datatype:date,name:date_end;datatype:date" />
+	<infoitem key="UD_other" value="name:date_finger;datatype:datetime" />
+	<infoitem key="UD_finger_records" value="name:id;datatype:int,name:sche_id;datatype:int,name:id_loc;datatype:string,name:names;datatype:string,name:id_emp;datatype:int,name:date_finger;datatype:datetime,name:date_import;datatype:date,name:user_id;datatype:int,name:status;datatype:int,name:location;datatype:string" />
+</info>

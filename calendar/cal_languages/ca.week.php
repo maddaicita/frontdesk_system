@@ -1,0 +1,9 @@
+<?php
+$week[1]="Diumenge";
+$week[2]="Dilluns";
+$week[3]="Dimarts";
+$week[4]="Dimecres";
+$week[5]="Dijous";
+$week[6]="Divendres";
+$week[7]="Dissabte";
+?>

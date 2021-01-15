@@ -1,0 +1,9 @@
+<?php
+$week[1]="Nedìle";
+$week[2]="Pondìlí";
+$week[3]="Úterý";
+$week[4]="Støeda";
+$week[5]="Ètvrtek";
+$week[6]="Pátek";
+$week[7]="Sobota";
+?>

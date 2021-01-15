@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_hours" value="name:hours_id;datatype:int,name:users_id;datatype:int,name:shift_start;datatype:datetime,name:shift_end;datatype:datetime,name:loc_id;datatype:int,name:comments;datatype:string,name:hours;datatype:string,name:admin_id;datatype:int,name:approved;datatype:int,name:location;datatype:string" />
+	<infoitem key="UD_usuario" value="name:users_id;datatype:int,name:last_name;datatype:string,name:first_name;datatype:string,name:email;datatype:string,name:cellphone;datatype:string" />
+</info>

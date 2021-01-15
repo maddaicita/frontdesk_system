@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user" value="name:users_id;datatype:int,name:last_name;datatype:string,name:first_name;datatype:string,name:user_admin;datatype:int" />
+	<infoitem key="UD_ids" value="name:id_print;datatype:int,name:user_id;datatype:int,name:admin_id;datatype:int,name:fecha;datatype:date,name:status;datatype:int,name:last_name;datatype:string,name:first_name;datatype:string,name:first_name;datatype:string,name:last_name;datatype:string" />
+</info>

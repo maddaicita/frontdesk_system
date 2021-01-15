@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_usario" value="name:users_id;datatype:int,name:last_name;datatype:string,name:first_name;datatype:string,name:email;datatype:string,name:address;datatype:string,name:city;datatype:int,name:state;datatype:string,name:zipcode;datatype:string,name:cellphone;datatype:string,name:homephone;datatype:string,name:license_class;datatype:string,name:license_number;datatype:string,name:license_status;datatype:int,name:exp_license;datatype:date" />
+	<infoitem key="UD_cities" value="name:city_id;datatype:int,name:city;datatype:string" />
+</info>

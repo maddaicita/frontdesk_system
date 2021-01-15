@@ -1,0 +1,564 @@
+body    {
+	background-color: #FFFFF0;
+}
+
+a:visited    {
+	color: #0000FF;
+	text-decoration: none;
+}
+
+a:link    {
+	color: #0000FF;
+	text-decoration: none;
+}
+
+a:hover    {
+	color: #FF0000;
+	text-decoration: underline;
+}
+
+a:active    {
+	color: #FF0000;
+	text-decoration: underline;
+}
+
+a.none:hover    {
+	color: #000000;
+	text-decoration: none;
+}
+
+/* form styles */
+textarea    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 12;
+}
+
+select    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 12;
+}
+
+input    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 12;
+}
+
+/* small event font */
+div.smallcalev    {
+	color: #0020A0;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 10;
+}
+
+div.smallcalevtime    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 10;
+}
+
+a.smallcalev    {
+	color: #0020A0;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 10;
+}
+
+a.smallcalev:hover    {
+	color: #FF2040;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 10;
+}
+
+/* small cal month font */
+table.smallcalmth    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 13;
+	width: 98%;
+}
+
+div.smallcalmth    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 14;
+}
+
+a.smallcalmth    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 14;
+}
+
+a.smallcalmth:visited    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 14;
+}
+
+td.smallcalmth    {
+	background-color: #F4F4F4;
+	border:#884422 thin solid;	
+}
+
+/* message to signal progress */
+h4    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 14;
+}
+
+/* font for calendar and company names at top of month calendar */
+table.companynamefont    {
+	color: #0000FF;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 24;
+	font-style: normal;
+	font-weight: bold;
+	background-color: #F0F0FF;
+}
+
+table.calendarnamefont    {
+	color: #884422;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 24;
+	font-style: normal;
+	font-weight: bold;
+	background-color: #FFFFF0;
+}
+
+/* calendar top header setting */
+table.todaytop    {
+	color: #884422;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 12;
+	font-style: normal;
+	font-weight: normal;
+	width: 100%;
+	background: #FFFFF0;
+}
+
+/* font for calendar day name */
+div.dayfont    {
+	color: #884422;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 13;
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font for calendar date numbers */
+div.datenumfont    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 13;
+	font-style: normal;
+	font-weight: normal;
+}
+
+a.datenumfont    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 13;
+	font-style: normal;
+	font-weight: normal;
+}
+
+a.datenumfont:visited    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 13;
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* month calendar table view setting */
+table.monthview    {
+	width: 98%;
+	border-width: thin;
+	background-color: #A0E0F0;
+	color: #A0E0F0;
+	border: 0px thin #FFFFFF;
+	border-collapse: separate;
+	border-spacing: 1px;
+	padding: 0px;
+	spacing: 1px;
+}
+
+td.monthview    {
+	height: 30px;
+}
+
+td.sundaytopcolor    {
+	height: 50px;
+	color: #F0F0E0;
+	background-color: #F0F0E0;
+	width: 14%;
+}
+
+td.weekdaytopcolor    {
+	height: 50px;
+	color: #F4F4F4;
+	background-color: #F4F4F4;
+	width: 14%;
+}
+
+td.sundayemptyclr    {
+	height: 50px;
+	background-color: #FFFFFF;
+}
+
+td.weekdayemptyclr    {
+	height: 50px;
+	background-color: #FFFFFF;
+}
+
+td.todayclr    {
+	background-color: #FFFFC0;
+}
+
+td.sundayclr    {
+	height: 50px;
+	background-color: #F0F0E0;
+}
+
+td.weekdayclr    {
+	height: 50px;
+	background-color: #F4F4F4;
+}
+
+/* link to month navigation font */
+a.calfontnav    {
+	color: #884422;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 18;
+	font-style: normal;
+	font-weight: bold;
+}
+
+a.calfontnav:hover    {
+	color: #884422;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 18;
+	font-style: normal;
+	font-weight: normal;
+}
+
+a.calfontnav:link    {
+	color: #884422;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 18;
+	font-style: normal;
+	font-weight: normal;
+}
+
+a.calfontnav:visited    {
+	color: #884422;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 18;
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* link to asked month font */
+div.calfontasked    {
+	color: #884422;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 24;
+	font-style: normal;
+	font-weight: normal;
+}
+
+a.calfontasked    {
+	color: #884422;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 24;
+	font-style: normal;
+	font-weight: normal;
+}
+
+a.calfontasked:hover    {
+	color: #884422;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 24;
+	font-style: normal;
+	font-weight: normal;
+}
+
+a.calfontasked:link    {
+	color: #884422;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 24;
+	font-style: normal;
+	font-weight: normal;
+}
+
+a.calfontasked:visited    {
+	color: #884422;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 24;
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font for menu items */
+div.menufont    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 12;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+a.menufont:link    {
+	color: #0000FF;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 12;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+a.menufont:visited    {
+	color: #0000FF;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 12;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+a.menufont:hover    {
+	color: #0000FF;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 12;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+/* menu option background color */
+table.menufont    {
+	background: #FAFAFF;
+	width: 100%;
+}
+
+/* font for search header */
+div.searchheaderfont    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 16;
+	font-style: normal;
+	font-weight: bold;
+	background-color: #F0F0F0;
+}
+
+/* font for search result events title */
+div.searchtitlefont    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 14;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+/* font for search result events */
+div.searchtextfont    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 12;
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font for headers */
+div.headerfont    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 16;
+	font-style: normal;
+	font-weight: bold;
+	background-color: #F0F0F0;
+}
+
+table.headerfont    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 16;
+	font-style: normal;
+	font-weight: bold;
+	background-color: #F0F0F0;
+}
+
+a.headerfont:link    {
+	color: #000000;
+	text-decoration: none;
+}
+
+a.headerfont:visited    {
+	color: #000000;
+	text-decoration: underline;
+}
+
+a.headerfont:hover    {
+	color: #000000;
+	text-decoration: underline;
+}
+
+/* font for titles */
+div.titlefont    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 14;
+	font-style: normal;
+	font-weight: normal;
+}
+
+table.titlefont    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 14;
+	font-style: normal;
+	font-weight: normal;
+	background-color: #C0C0C0;
+}
+
+a.titlefont:link    {
+	color: #000000;
+	text-decoration: none;
+}
+
+a.titlefont:visited    {
+	color: #000000;
+	text-decoration: underline;
+}
+
+a.titlefont:hover    {
+	color: #000000;
+	text-decoration: underline;
+}
+
+/* font for event popup title */
+div.popupeventtitlefont    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 14;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+/* font for event popup content */
+div.popupeventfont    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 12;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+/* color and font for event content text in day calendar */
+table.dayevent    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 12;
+	font-style: normal;
+	font-weight: normal;
+	background: #F0F0FF;
+	text-decoration: none;
+}
+
+/* color and font for event content text in week calendar */
+table.weekevent    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 12;
+	font-style: normal;
+	font-weight: normal;
+	background: #F0F0FF;
+	text-decoration: none;
+}
+
+/* color and font for normal text */
+div.normalfont    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 12;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+table.normalfont    {
+	color: #000000;
+	font-family: Arial,sans-serif,Helvetica;
+	font-size: 12;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+a.normalfont:link    {
+	color: #000000;
+	text-decoration: none;
+}
+
+a.normalfont:visited    {
+	color: #000000;
+	text-decoration: none;
+}
+
+a.normalfont:hover    {
+	color: #000000;
+	text-decoration: underline;
+}
+
+/* format event borders in calendar month view */
+table.eventborder    {
+	border: solid #D0C0C8;
+	border-bottom-width: 1;
+	border-top-width: 0;
+	border-left-width: 0;
+	border-right-width: 0;
+}
+
+td.eventborder    {
+	border: solid #D0C0C8;
+	border-bottom-width: 0;
+	border-top-width: 0;
+	border-left-width: 1;
+	border-right-width: 0;
+}
+
+td.eventtimeborder    {
+	border: solid #884084;
+	border-bottom-width: 0;
+	border-top-width: 0;
+	border-left-width: 0;
+	border-right-width: 0;
+}
+
+/* lines and boxes */
+table.txtbox    {
+	border: solid gray;
+	border-width: 1;
+}
+
+td.txtbox {
+	border:#884422 thin solid;
+}
+
+hr    {
+	height: 1px;
+	background-color: #804000;
+	border: #804000;
+	color: #804000;
+	border: 0px;
+	border-style: none;
+}
+
+

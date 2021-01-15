@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_proper" value="name:loc_id;datatype:int,name:location;datatype:string,name:address;datatype:string" />
+	<infoitem key="UD_incident" value="name:incident_id;datatype:int,name:incident_text;datatype:string,name:users_id;datatype:int" />
+	<infoitem key="UD_usario" value="name:id_finger;datatype:int,name:last_name;datatype:string,name:first_name;datatype:string" />
+	<infoitem key="UD_conditions" value="name:con_id;datatype:int,name:con_label;datatype:string,name:con_admin;datatype:int" />
+</info>

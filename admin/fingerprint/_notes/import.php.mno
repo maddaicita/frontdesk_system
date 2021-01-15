@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_loc" value="name:loc_id;datatype:int,name:location;datatype:string,name:address;datatype:string" />
+</info>

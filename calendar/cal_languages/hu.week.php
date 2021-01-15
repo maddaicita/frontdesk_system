@@ -1,0 +1,9 @@
+<?php
+$week[1]="Vasárnap";
+$week[2]="Hétfõ";
+$week[3]="Kedd";
+$week[4]="Szerda";
+$week[5]="Csütörtök";
+$week[6]="Péntek";
+$week[7]="Szombat";
+?>

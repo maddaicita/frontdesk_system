@@ -1,0 +1,21 @@
+200		00:02:6f:ba:3d:f5
+201		00:02:6f:ba:3d:f3
+
+
+CH3
+
+router encore   192.168.25.1		00026F76AA80   allamerican   00026F76B6A8 
+mailbox     192.168.25.2		00026F76AA0D 	"	  00026F76B4DC 
+front gate	192.168.25.3		00026F76AA0C			00026F76B4D8
+
+
+
+
+
+    		00:02:6F:76:B4:E8    192.168.25.1
+
+camera           00A8F4005798		192.168.1.200		dplace245   
+
+
+Public ip		174.61.44.255
+

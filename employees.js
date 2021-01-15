@@ -1,0 +1,13 @@
+stm_bm(["menu38a6",820,"","blank.gif",0,"","",0,0,250,0,1000,1,0,0,"","",0,0,1,2,"default","hand",""],this);
+stm_bp("p0",[0,4,0,0,2,3,0,0,100,"",-2,"",-2,50,0,0,"#999999","#E6EFF9","",3,1,1,"#000000"]);
+stm_ai("p0i0",[0,"      Home     ","","",-1,-1,0,"emp_home.php","_self","","","","",0,0,0,"","",0,0,0,0,1,"#E6EFF9",0,"#FFD602",0,"","",3,3,1,1,"#E6EFF9","#000000","#000000","#000000","8pt Verdana","8pt Verdana",0,0]);
+stm_ai("p0i1",[6,1,"#000000","",-1,-1,0]);
+stm_aix("p0i2","p0i0",[0,"      Update profile     ","","",-1,-1,0,"emp_profile.php"]);
+stm_aix("p0i3","p0i1",[]);
+stm_aix("p0i4","p0i0",[0,"      Hourly sheet     ","","",-1,-1,0,"emp_hours_list.php"]);
+stm_aix("p0i5","p0i1",[]);
+stm_aix("p0i6","p0i0",[0,"    Hours last period    ","","",-1,-1,0,"emp_hours_totalhours.php"]);
+stm_aix("p0i7","p0i1",[]);
+stm_aix("p0i8","p0i0",[0,"       Schedule     ","","",-1,-1,0,"emp_schedule.php"]);
+stm_ep();
+stm_em();

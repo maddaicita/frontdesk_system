@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_users" value="name:users_id;datatype:int,name:names;datatype:string,name:username;datatype:string,name:password;datatype:string,name:user_enabled;datatype:int,name:user_admin;datatype:int" />
+	<infoitem key="UD_user" value="name:users_id;datatype:int,name:last_name;datatype:string,name:first_name;datatype:string,name:user_admin;datatype:int" />
+	<infoitem key="UD_task" value="name:task_id;datatype:int,name:task_datetime;datatype:datetime,name:loc_id;datatype:int,name:comments;datatype:string,name:admin_id;datatype:int,name:users_id;datatype:string,name:datetime_set;datatype:datetime,name:task_status;datatype:int" />
+</info>

@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Dplace directory system</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+body {
+	background-image: url(../images/bgnd2.jpg);
+	background-repeat: repeat-x;
+}
+-->
+</style>
+<script type="text/javascript" src="stmenu.js"></script>
+</head>
+
+<body>
+<table width="627" height="132" border="0" align="center">
+  <tr>
+    <td width="232" height="128" align="center"><img src="../images/dplace_logo.JPG" width="175" height="87"></td>
+    <td width="385" align="center"><span class="titulo">Visitor control system <br>
+All American Security Services</span></td>
+  </tr>
+</table>
+<table width="673" border="0" align="center">
+  <tr>
+    <td width="362" align="center"><span>
+ &nbsp;
+    <script type="text/javascript" src="menu.js"></script></span></td>
+  </tr>
+</table>
+<!-- TemplateBeginEditable name="central" -->
+<table width="692" height="367" border="0" align="center">
+  <tr>
+    <td align="center" valign="top">&nbsp;</td>
+  </tr>
+</table>
+<!-- TemplateEndEditable -->
+</body>
+</html>

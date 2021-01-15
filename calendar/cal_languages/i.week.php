@@ -1,0 +1,9 @@
+<?php
+$week[1]="Domenica";
+$week[2]="Lunedì";
+$week[3]="Martedì";
+$week[4]="Mercoledì";
+$week[5]="Giovedì";
+$week[6]="Venerdì";
+$week[7]="Sabato";
+?>

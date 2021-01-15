@@ -1,0 +1,14 @@
+<?php
+$mth[1]="Leden";
+$mth[2]="Únor";
+$mth[3]="Bøezen";
+$mth[4]="Duben";
+$mth[5]="Kvìten";
+$mth[6]="Èerven";
+$mth[7]="Èervenec";
+$mth[8]="Srpen";
+$mth[9]="Záøí";
+$mth[10]="Øíjen";
+$mth[11]="Listopad";
+$mth[12]="Prosinec";
+?>

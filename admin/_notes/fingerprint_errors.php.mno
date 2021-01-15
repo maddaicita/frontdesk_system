@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user" value="name:users_id;datatype:int,name:last_name;datatype:string,name:first_name;datatype:string,name:user_admin;datatype:int" />
+	<infoitem key="UD_id" value="name:users_id;datatype:int,name:id_finger;datatype:int,name:last_name;datatype:string,name:first_name;datatype:string" />
+	<infoitem key="UD_fin" value="name:id;datatype:int,name:location;datatype:string,name:id_emp;datatype:int,name:date_finger;datatype:datetime,name:date_import;datatype:date" />
+	<infoitem key="UD_sta_fix" value="name:sta_id;datatype:int,name:sta_label;datatype:string" />
+	<infoitem key="UD_other" value="name:id;datatype:int,name:sche_id;datatype:int,name:id_loc;datatype:string,name:names;datatype:string,name:id_emp;datatype:int,name:date_finger;datatype:datetime,name:date_import;datatype:date,name:user_id;datatype:int,name:status;datatype:int" />
+	<infoitem key="UD_sta_set" value="name:id;datatype:int,name:date_start;datatype:date,name:date_end;datatype:date" />
+</info>

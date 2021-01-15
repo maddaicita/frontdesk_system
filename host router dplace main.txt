@@ -1,0 +1,24 @@
+Attain IP Protocol     Dynamic IP Address       
+IP address     10.1.10.40  
+Subnet Mask     255.255.255.0  
+Default Gateway     10.1.10.1  
+MAC address     00:02:6F:76:AA:10  
+Primary DNS     10.1.10.1  
+
+
+
+174.61.44.255
+
+
+username   cusadmin
+password   highspeed
+
+DNS (primary) 75.75.75.75 
+DNS (secondary) 75.75.76.76 
+
+Main router     192.168.25.1
+Mail box router   192.168.25.2
+
+front gate       192.168.25.3
+dvr front gate   192.168.25.150
+

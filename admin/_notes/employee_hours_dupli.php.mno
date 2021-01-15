@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user" value="name:users_id;datatype:int,name:last_name;datatype:string,name:first_name;datatype:string,name:user_admin;datatype:int" />
+	<infoitem key="UD_emp" value="name:users_id;datatype:int,name:last_name;datatype:string,name:first_name;datatype:string" />
+	<infoitem key="UD_schedule" value="name:users_id;datatype:int,name:shift_id;datatype:int,name:sch_date;datatype:date,name:week;datatype:int,name:shift_time;datatype:string" />
+</info>

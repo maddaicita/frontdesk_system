@@ -1,0 +1,8 @@
+Per i meno esperti:
+Il sitema di localizzazione di Calendarix è fatto molto bene.
+La traduzione in italiano è sostanzialmente corretta; 
+nel caso in cui comunque alcune voci non dovessero essere di gradimento, basta aprie il file "i.inc.php" e andare a cambiarle manualmente.
+Attenzione solamente a non toccare le voci in inglese in quanto il farlo comprometterebbe il corretto funzionamento di Calendarix.
+
+Colgo l'occasione per ringraziare e congratularmi con Vincent per avere realizzato questa splendida agenda.
+Andrea Favini

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_sche" value="name:sch_id;datatype:int,name:users_id;datatype:int,name:shift_id;datatype:int,name:sch_date;datatype:date,name:week;datatype:int,name:shc_set;datatype:datetime,name:admin_id;datatype:int,name:shift_time;datatype:string,name:location;datatype:string" />
+	<infoitem key="UD_usuario" value="name:users_id;datatype:int,name:last_name;datatype:string,name:first_name;datatype:string,name:email;datatype:string,name:cellphone;datatype:string" />
+</info>

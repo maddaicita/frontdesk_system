@@ -1,0 +1,10 @@
+Format required, no header
+
+
+Cynergi,Raul Velazquez,100,2013-12-1 06:36:17,2,,Fingerpint,
+Cynergi,Raul Velazquez,100,2013-12-1 22:13:17,2,,Fingerpint,
+Cynergi,Raul Velazquez,100,2013-12-2 06:05:32,2,,Fingerpint,
+Cynergi,Raul Velazquez,100,2013-12-2 21:58:42,2,,Fingerpint,
+
+
+

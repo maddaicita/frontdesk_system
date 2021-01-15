@@ -1,0 +1,1 @@
+http://licgweb.doacs.state.fl.us/cgi-bin/LicWebSrchInd.exe?TYPE=INDIVIDUAL&CATEGORY=D%20&COUNTY=00&LICENSE=D%202623133&STATUS=IND_DETAIL

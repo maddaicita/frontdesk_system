@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_usuario" value="name:id_user;datatype:int,name:username;datatype:string,name:names;datatype:string,name:password;datatype:string,name:id_admin;datatype:int" />
+	<infoitem key="UD_packages" value="name:pkg_id;datatype:int,name:id_tennant;datatype:int,name:pkg_label;datatype:string,name:pkg_type;datatype:int,name:pkg_condition;datatype:int,name:pkg_perishable;datatype:string,name:pkg_date_in;datatype:datetime,name:pkg_date_out;datatype:datetime,name:pkg_comments;datatype:string,name:pkg_user;datatype:int,name:pkg_record;datatype:datetime,name:names;datatype:string,name:apt;datatype:string,name:phones;datatype:string,name:guard;datatype:string" />
+</info>

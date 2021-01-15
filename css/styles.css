@@ -1,0 +1,42 @@
+@charset "utf-8";
+.standar {
+font-family: Monaco, Consolas, "Lucida Console", monospace;
+}
+
+.Titles {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 18px;
+	font-weight: bold;
+	color: #00F;
+}
+.cabecera {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 14px;
+	font-weight: 600;
+	color: #FFC;
+	background-color: #666;
+}
+.links {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 10px;
+	text-decoration: underline;
+}
+.lineas {
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 12px;
+}
+.caja_grande {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+.caja_grande_low {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	text-transform: none;
+}
+.today {
+	background-color: #6FF;
+	color: #009;
+	font-weight: bold;
+}

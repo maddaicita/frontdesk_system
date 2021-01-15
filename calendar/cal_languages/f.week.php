@@ -1,0 +1,9 @@
+<?php
+$week[1]="Sunnuntai";
+$week[2]="Maanantai";
+$week[3]="Tiistai";
+$week[4]="Keskiviikko";
+$week[5]="Torstai";
+$week[6]="Perjantai";
+$week[7]="Lauantai";
+?>

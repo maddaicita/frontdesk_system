@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user" value="name:users_id;datatype:int,name:last_name;datatype:string,name:first_name;datatype:string,name:user_admin;datatype:int" />
+	<infoitem key="UD_finger" value="name:id;datatype:int,name:id_loc;datatype:string,name:id_emp;datatype:int,name:date_finger;datatype:datetime,name:status;datatype:int" />
+	<infoitem key="UD_schedule" value="name:sch_id;datatype:int" />
+	<infoitem key="UD_finger2" value="name:id;datatype:int" />
+	<infoitem key="UD_finger3" value="name:id;datatype:int,name:sch_id;datatype:int" />
+</info>

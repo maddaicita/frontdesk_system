@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user" value="name:users_id;datatype:int,name:last_name;datatype:string,name:first_name;datatype:string,name:user_admin;datatype:int" />
+	<infoitem key="UD_fix" value="name:fix_id;datatype:int,name:fix_time;datatype:string,name:reason_id;datatype:int,name:reason_text;datatype:string,name:sche_id;datatype:int,name:status_id;datatype:int,name:fix_date;datatype:datetime,name:fix_admin;datatype:int,name:sch_date;datatype:date,name:users_id;datatype:int,name:shift_time;datatype:string,name:first_name;datatype:string,name:last_name;datatype:string,name:sta_label;datatype:string" />
+</info>

@@ -1,0 +1,246 @@
+---------------
+VERSION UPDATES
+---------------
+0.8.20080808
+- Added Czech translation, courtesy of Jakub.
+- Added auto-refresh feature to update calendar every minute.
+- Added variable for changing character set to better display different languages.
+- Enable timeout for RSS channels to load calendar.
+- Fix vulnerability reported by Secunia on 'catsearch' and 'catview' parameter.
+- Fix problem loading calendar when there are malformed RSS feeds.
+- Fix bug of not being able to jump to month without 31st from month with 31st date.
+- Fix week view display in IE not showing "Category" in next line.
+
+0.8.20071118
+- Added Romanian translation, courtesy of Florin Berechet.
+- Added Basque translation, courtesy of Jon Uts Medialab.
+- Added German translation of Admin menu, courtesy of Thomas Janotta.
+- Added new style class td.txtbox to improve yearcal layout.
+- Updated Danish translation, courtesy of Preben Wetke
+- Updated Admin Calendar menu to have German and Swedish translation as well.
+- Updated overlib to version 4.21.
+- New feature to be able to use translated menu in Admin Calendar through "$language_menu_items.js".
+- New feature to send email notification when updating events.
+- New variable to specify default category when adding events.
+- New feature and variables to integrate one RSS 2.0 feed into calendar month view.
+- Improved minical to be able to embed more than one minical.
+- Improved highlighting in minical display for date with events.
+- Fix bug of page not refreshing when deleting/adding events in Admin Calendar for IE7.
+- Fix several reported security vulnerabilities (http://www.netvigilance.com/advisory0035, http://www.netvigilance.com/advisory0036, http://www.netvigilance.com/advisory0037, http://www.netvigilance.com/advisory0038)
+
+0.7.20070307
+- Updated Dutch translation, courtesy of Jo(han) Ampe.
+- Fix security vulnerability on Calendar losing data.
+
+0.7.20061227
+- Added Hungarian language translation, courtesy of Kopasz Norbert.
+- Added Galician language translation, courtesy of Anton Meixome.
+- Integrated optional FCKEditor 2.3.2 into editing description.
+- Updated Swedish language translation, courtesy of Thomas Mårtensson, Bjorn Sandstrom
+- Added control of maximum limit in title of event.
+- Fix bug on using single quote in title of event.
+- Fix security vulnerability on 'id' variable in cal_event.php and cal_popup.php.
+
+
+0.7.20060401
+- Added support for MySQL5.
+- Added day of the week to listing view and event details.
+- Added ability to edit events in user calendar.
+- Added date selector in adding events.
+- Added Catalan language translation, courtesy of Sergi Alonso.
+- Updated Portuguese translation, courtesy of Luciano Antonio Costa.
+- Updated Dutch translation, courtesy of Jo Ampe.
+- Fix security issue on 'catview' allowing sql injection vulnerability.
+- Fix bug on displaying incorrect timestamp for calendar events.
+
+0.6.20050830
+- Added listing of events from current day with new variable $viewevlistok.
+- Added listing of events page as optional default calendar view.
+- Added Traditional Chinese translation, courtesy of Nicholas Young.
+- Removed 'From' and 'To' when there is no time input.
+- Corrected week number bug.
+- Fix bug on categories not displaying correctly user events when user login for viewing user own events.
+- Fix reported security vulnerabilities.
+- Updated themes css files to handle table formatting.
+- Updated French translation, courtesy of Frank Wagemans.
+- Updated Dutch translation, courtesy of Nathan van Dael.
+- Updated German translation, courtesy of Bernhard Burger.
+
+
+0.6.20050215
+- Added Indonesian language translation, courtesy of Firdaus Adinugroho.
+- Added Greek language translation, courtesy of Nikos Kantarakis.
+- Added Valencian language translation, courtesy of Vicent Llop.
+- Added updated German translation, courtesy of Armin Ipfelkofer.
+- Added support for calendar running on "https" protocol with new variable $protocol.
+- Added new $theme variable to define the display theme for calendar.
+- Added CSS drop-down menus in administration.
+- Updated overlib to version 4.14.
+- Fix bug on deleting all historical events even when a certain user was chosen.
+- Other minor bug fixes.
+
+0.6.20050131
+- Removed the need to set $calpath, auto-detect path is used.
+- Allow multiple lines to spread in week and day view calendar.
+- Calendar display using Cascading Style Sheets formatting.
+- All formatting converted to xHTML.
+- Able to support html entries in events.
+- Many bug fixes.
+
+0.5.20040531
+- Added Chinese translation, courtesy of Hu Wey.
+- Updated German translation, courtesy of Holger Wanke.
+- Updated Finnish translation, courtesy of Ari Haapaniemi.
+- Enabled caching when adding events.
+- Updated overlib to version 4.00.
+- Bug fix on login blank page when output_buffering = Off in php.ini.
+- Other minor bug fixes.
+
+0.5.20031130
+- Added overlib support.  Overlib provided by Erik Bosrup.
+- Improved small calendar view with highlight of days with events.
+- Improved year calendar view with highlights of days with events.
+- Small calendar able to traverse forward and back in months.
+- Year calendar able to traverse forward and back in years.
+- Use overlib summary when events display exceed limit.
+- Added Argentinian and Mexican versions for Spanish translation, courtesy of Jose Luis Valerio and Enrique Garcia Briones respectively.
+- New mini calendar with summary events available for embedding in website.
+
+0.4.20030930
+- Bug fix for displaying error in adding event when set to 24hr format.
+- Bug fix for not displaying correct category when viewing a category in Events menu.
+- Bug fix on not being able to add repeated yearly event.
+- Updated Danish translation, courtesy of Jorn Hansen.
+- Updated Italian translation, courtesy of Andrea Favini.
+
+0.4.20030731
+- Added login username display on calendar.
+- Added checks for username creation to be alpha-numeric.
+- Able to change password for current login user.
+- Removed login session timeout.
+- Removed use versioncheck.inc.php script.
+- Modified login to use session variables.  Thus, requires PHP version 4 and above.
+- Updated German translation, courtesy of Holger Wanke.
+- Updated Swedish translation, courtesy of Patrik Nilsson. 
+- Bug fixes.
+
+0.3.20030228
+- Added Finnish translation, courtesy of Ari Haapaniemi.
+- Added Arabic translation, courtesy of Hani Draye. 
+- Added Russian translation, courtesy of Dr Victor Mosco. 
+- Added feature to search records between a certain date range and within categories. 
+- Added feature to browse records by batches in listing views, with new variable $limitrow.
+- Added feature to view events of selected user in Administration calendar views. 
+- Corrected bug on error messages in add event when no time entry is enabled in adding event. 
+
+For upgraders, take note of new variables created for cal_config.inc.php (found in cal_config.inc.php.new):
+$limitrow
+
+Note also that new files have been added, old files reorganised and split into smaller files for easier maintenance.
+
+0.3.20030130
+- Added Danish Translation, courtesy of Thomas Møller. 
+- Added Swedish Translation, courtesy of Christian Wavik. 
+- New top and bottom html files available to enclose login screens nicely into website, defined by files "callogin_top.html" and "callogin_bottom.html".
+- Calendar in month view able to reflect start day of week accordingly.
+- Added feature provides ability to show user of added event on calendar, through variable $showuserentry.
+- Added feature allows for public viewing of calendar with login for users to add events to calendar, through variable $publicview
+- Added feature to condensed events when it exceeds a certain number in month view through variable $limitmthevt.
+- Added feature for setting width of week view, day view, header and footer, through variables $weekview_w, $dayview_w, $headermenu_w, $footermenu_w respectively.
+- Improved view through added formatting in stylesheet. Check out file stylesheet.php style sheet formatting.
+- Corrected bug on disabling of month, week and day view. 
+- Corrected bug on viewing events filtered by categories. 
+
+For upgraders, take note of new variables created for cal_config.inc.php (found in cal_config.inc.php.new):
+$showuserentry
+$publicview
+$limitmthevt
+$weekview_w
+$dayview_w
+$headermenu_w
+$footermenu_w
+
+Note also that new files have been added, old files reorganised and split into smaller files for easier maintenance.  The following files are no longer needed: about.php, cal_db.inc.php and cal_utils.php in "admin" directory.
+
+0.2.20030114
+- Added Norwegian translation, courtesy of Thore Danielsen. 
+- Added Turkish translation, courtesy of Hulusi Cerrahoðlu. 
+- Added Slovenian translation, courtesy of Nejc Crešnar.
+- Added new user description for user accounts. 
+- Added feature to view events on calendar filtered by categories, available through variable $eventcatfilter in configration file. 
+- Added feature to allow users to delete their own events in user calendar, available through variable $allowuserdel in configuration file.
+- Corrected bug for search error messages. 
+- Corrected bug for disabling of event adding affecting administrators. 
+- Corrected bug for retaining information on hitting 'back' when adding event with missing information. 
+- Corrected bug for user admin not working for certain languages. 
+
+For upgraders, take note of new variables created in cal_config.inc.php:
+$eventcatfilter 
+$allowuserdel 
+
+Note also that new files have been added, old files reorganised and split into smaller files for easier maintenance.
+
+For users of languages other than English, new phrases have been added. They are commented with "translate" in the language files.
+
+0.2.20021111
+- Added Portuguese translation, courtesy of Rodrigo Carvalho.
+- Added ability to view calendar in either 12-hour or 24-hour format through new variable $time12hour in configuration file.
+- Added new setting through $shortdesclen variable in configuration file to define length of description display in weekly and daily calendar view.  
+- Added new feature to list events under a category by month and year.
+
+For upgraders, take note of new variables created in cal_config.inc.php:
+$time12hour
+$shortdesclen
+
+For users of languages other than English, there are no new phrases added for translations from last version.
+
+0.2.20021021
+- Added French translation, courtesy of Michaud, Christophe.
+- Added new popup calendar for the year with new icon and hyperlinks to specific month views.
+- Added feature to enable and disable time entry for adding events with new variable $notimeentry in configuration file.
+- Add new variables $addeventwin_w and $addeventwin_h to set Add Event window width and height.
+- Added more information in emailing of events with better formatting.
+- Corrected bug on event pop-up looking for hard-coded category table instead of variable. 
+- Corrected bug on errors coming up when there is no login required and setting is for user to view only user-specific events. 
+- Corrected bug on translation needed text when approval of events is enabled.
+
+For upgraders, take note of new variables created in cal_config.inc.php:
+$notimeentry
+$addeventwin_w
+$addeventwin_h
+
+
+0.2.20021003
+- Added configurable border around event display in calendar month view with variables $showeventborder and $showeventtimeborder in configuration file.
+- Added feature to view particular user events in historical items in Administration.
+- Added feature to view particular user events under categories in Administration.
+- Corrected bug on searching through all events when user is only viewing his own events.
+- Corrected bug on being to post event after logout when add_event window is still open.
+- Added German translation, courtesy of Uli from Webdesign Münchhalfen.
+- Added Dutch translation, courtesy of Rob Gielen.
+- Added Email notification setting in configuration file for events posted through user calendar with variables $mailevent and $emailrcpt.
+
+0.2.20020925
+- Added Italian translation, courtesy of Andrea Favini.
+- Added repeat events for every particular weekday.
+- Added new feature to copy events to another date from viewing one event.
+- Added hyperlink back to user calendar in header menu in Administration.
+- Corrected bug on being able to delete current login user in Administration.
+- Added validation checks for creating of new users in Administration.
+- Added changing of password and groups for users in Administration.
+- Added new variable $userview to determine if calendar is user specific (not applicable to administrators).
+
+
+0.1.20020918
+- strip slashes for category names in historical items display.
+- corrected display date in historical items page to take into account timezone.
+- corrected adjustment of timezone to rollover month and year and not just day.
+
+0.1.20020913
+- Added timezone hours offset for differences in client browser's time against host server time.
+- Today's date shown on calendar and date and time entries of events now take into account time zone differences.
+- strip slashes for category names displayed.
+- removed checkbox for use of entering start time and end time. Detection of selection of start time hour and end time hour is used instead.
+- Added waiting messages in updating and deleting categories and users.
+
+0.1.20020905 - First Beta release.

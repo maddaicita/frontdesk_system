@@ -1,0 +1,7 @@
+DVR pinecrest local
+
+10.0.0.25   8080
+
+NETGEAR07
+
+rapidteapot027

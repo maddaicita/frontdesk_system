@@ -1,0 +1,9 @@
+<?php
+$week[1]="Söndag";
+$week[2]="Måndag";
+$week[3]="Tisdag";
+$week[4]="Onsdag";
+$week[5]="Torsdag";
+$week[6]="Fredag";
+$week[7]="Lördag";
+?>

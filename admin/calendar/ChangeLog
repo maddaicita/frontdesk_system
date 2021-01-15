@@ -1,0 +1,16 @@
+version 1.0.1 (September 04, 2006)
+
+    -   the datePicker now pops up as a modal window (it will stay on top of other windows
+        until closed) and will also have the focus by default - thanks Johan van Ieperen
+    -   added the possibility to define for each language how the abbreviations for names
+        of months and days should be - thanks Johan van Ieperen
+    -   the manual was confusing about how to use another language file
+    -   fixed a bug that would scramble up days on months where first day of the week was
+        on a sunday
+    -   added german language translation (thanks to Wassilios Meletiadis)
+    -   added dutch language translation (thanks to Johan van Ieperen)
+
+version 1.0 (August 22, 2006)
+
+    -   initial release
+

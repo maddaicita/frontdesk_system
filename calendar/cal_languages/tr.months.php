@@ -1,0 +1,14 @@
+<?php
+$mth[1]="Ocak";
+$mth[2]="Þubat";
+$mth[3]="Mart";
+$mth[4]="Nisan";
+$mth[5]="Mayýs";
+$mth[6]="Haziran";
+$mth[7]="Temmuz";
+$mth[8]="Aðustos";
+$mth[9]="Eylül";
+$mth[10]="Ekim";
+$mth[11]="Kasým";
+$mth[12]="Aralýk";
+?>

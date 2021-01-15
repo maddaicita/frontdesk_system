@@ -1,0 +1,14 @@
+<?php
+$mth[1]="Tammikuu";
+$mth[2]="Helmikuu";
+$mth[3]="Maaliskuu";
+$mth[4]="Huhtikuu";
+$mth[5]="Toukokuu";
+$mth[6]="Kesäkuu";
+$mth[7]="Heinäkuu";
+$mth[8]="Elokuu";
+$mth[9]="Syysv";
+$mth[10]="Lokakuu";
+$mth[11]="Marraskuu";
+$mth[12]="Joulukuu";
+?>

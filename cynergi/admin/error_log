@@ -1,0 +1,345 @@
+[22-Jul-2011 10:08:07] PHP Warning:  mysql_free_result(): 5 is not a valid MySQL result resource in /home/allameri/public_html/cynergi/admin/visitor_detail.php on line 269
+[22-Jul-2011 10:08:07] PHP Warning:  mysql_free_result(): 6 is not a valid MySQL result resource in /home/allameri/public_html/cynergi/admin/visitor_detail.php on line 271
+[22-Jul-2011 10:08:48] PHP Warning:  mysql_free_result(): 6 is not a valid MySQL result resource in /home/allameri/public_html/cynergi/admin/visitor_detail.php on line 269
+[29-Jul-2011 11:48:59] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Jul-2011 11:48:59] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Jul-2011 11:48:59] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Jul-2011 11:48:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Jul-2011 11:49:20] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Jul-2011 11:49:20] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Jul-2011 11:49:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Jul-2011 11:49:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Jul-2011 12:27:48] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Jul-2011 12:27:48] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Jul-2011 12:27:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Jul-2011 12:27:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Jul-2011 12:29:26] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Jul-2011 12:29:26] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Jul-2011 12:29:26] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Jul-2011 12:29:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Jul-2011 13:00:18] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Jul-2011 13:00:18] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Jul-2011 13:00:18] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Jul-2011 13:00:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Jul-2011 13:20:19] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Jul-2011 13:20:19] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Jul-2011 13:20:19] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Jul-2011 13:20:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Jul-2011 13:22:01] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Jul-2011 13:22:01] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Jul-2011 13:22:01] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Jul-2011 13:22:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Jul-2011 13:22:58] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Jul-2011 13:22:58] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Jul-2011 13:22:58] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Jul-2011 13:22:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Jul-2011 13:33:03] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Jul-2011 13:33:03] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Jul-2011 13:33:03] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Jul-2011 13:33:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Jul-2011 14:19:04] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Jul-2011 14:19:04] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Jul-2011 14:19:04] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Jul-2011 14:19:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Jul-2011 14:38:14] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Jul-2011 14:38:14] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Jul-2011 14:38:14] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Jul-2011 14:38:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Jul-2011 18:54:35] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Jul-2011 18:54:35] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Jul-2011 18:54:35] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Jul-2011 18:54:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[09-Aug-2011 14:12:45] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[09-Aug-2011 14:12:45] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[09-Aug-2011 14:12:45] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[09-Aug-2011 14:12:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[09-Aug-2011 15:09:14] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[09-Aug-2011 15:09:14] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[09-Aug-2011 15:09:14] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[09-Aug-2011 15:09:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[09-Aug-2011 15:27:07] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[09-Aug-2011 15:27:07] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[09-Aug-2011 15:27:07] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[09-Aug-2011 15:27:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[10-Aug-2011 07:54:39] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[10-Aug-2011 07:54:39] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[10-Aug-2011 07:54:39] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[10-Aug-2011 07:54:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[10-Aug-2011 07:56:35] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[10-Aug-2011 07:56:35] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[10-Aug-2011 07:56:35] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[10-Aug-2011 07:56:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[25-Aug-2011 09:36:09] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[25-Aug-2011 09:36:09] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[25-Aug-2011 09:36:09] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[25-Aug-2011 09:36:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Aug-2011 08:43:53] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Aug-2011 08:43:53] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Aug-2011 08:43:53] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Aug-2011 08:43:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Aug-2011 08:44:17] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Aug-2011 08:44:17] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Aug-2011 08:44:17] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Aug-2011 08:44:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Aug-2011 08:47:01] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Aug-2011 08:47:01] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Aug-2011 08:47:01] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Aug-2011 08:47:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Aug-2011 08:48:51] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Aug-2011 08:48:51] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Aug-2011 08:48:51] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Aug-2011 08:48:51] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Aug-2011 08:49:13] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Aug-2011 08:49:13] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Aug-2011 08:49:13] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Aug-2011 08:49:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Aug-2011 08:51:11] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Aug-2011 08:51:11] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Aug-2011 08:51:11] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Aug-2011 08:51:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Aug-2011 08:51:29] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Aug-2011 08:51:29] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Aug-2011 08:51:29] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Aug-2011 08:51:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Aug-2011 08:55:24] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Aug-2011 08:55:24] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Aug-2011 08:55:24] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Aug-2011 08:55:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Aug-2011 09:00:36] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Aug-2011 09:00:36] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Aug-2011 09:00:36] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Aug-2011 09:00:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Aug-2011 09:08:01] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Aug-2011 09:08:01] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Aug-2011 09:08:01] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Aug-2011 09:08:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Aug-2011 09:10:21] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Aug-2011 09:10:21] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Aug-2011 09:10:21] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Aug-2011 09:10:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Aug-2011 09:10:37] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Aug-2011 09:10:37] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Aug-2011 09:10:37] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Aug-2011 09:10:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[01-Sep-2011 09:52:04] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[01-Sep-2011 09:52:04] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[01-Sep-2011 09:52:04] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[01-Sep-2011 09:52:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[01-Sep-2011 09:52:10] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[01-Sep-2011 09:52:10] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[01-Sep-2011 09:52:10] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[01-Sep-2011 09:52:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[01-Sep-2011 09:53:43] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[01-Sep-2011 09:53:43] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[01-Sep-2011 09:53:43] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[01-Sep-2011 09:53:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[01-Sep-2011 09:56:02] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[01-Sep-2011 09:56:02] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[01-Sep-2011 09:56:02] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[01-Sep-2011 09:56:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[01-Sep-2011 09:59:12] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[01-Sep-2011 09:59:12] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[01-Sep-2011 09:59:12] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[01-Sep-2011 09:59:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[01-Sep-2011 12:26:52] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[01-Sep-2011 12:26:52] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[01-Sep-2011 12:26:52] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[01-Sep-2011 12:26:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[14-Sep-2011 09:42:34] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[14-Sep-2011 09:42:34] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[14-Sep-2011 09:42:34] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[14-Sep-2011 09:42:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[14-Sep-2011 09:43:51] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[14-Sep-2011 09:43:51] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[14-Sep-2011 09:43:51] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[14-Sep-2011 09:43:51] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[14-Sep-2011 09:45:59] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[14-Sep-2011 09:45:59] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[14-Sep-2011 09:45:59] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[14-Sep-2011 09:45:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[14-Sep-2011 10:03:53] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[14-Sep-2011 10:03:53] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[14-Sep-2011 10:03:53] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[14-Sep-2011 10:03:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[14-Sep-2011 10:15:26] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[14-Sep-2011 10:15:26] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[14-Sep-2011 10:15:26] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[14-Sep-2011 10:15:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[14-Sep-2011 10:17:13] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[14-Sep-2011 10:17:13] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[14-Sep-2011 10:17:13] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[14-Sep-2011 10:17:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[14-Sep-2011 10:18:08] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[14-Sep-2011 10:18:08] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[14-Sep-2011 10:18:08] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[14-Sep-2011 10:18:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[14-Sep-2011 10:19:34] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[14-Sep-2011 10:19:34] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[14-Sep-2011 10:19:34] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[14-Sep-2011 10:19:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[14-Sep-2011 10:19:48] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[14-Sep-2011 10:19:48] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[14-Sep-2011 10:19:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[14-Sep-2011 10:19:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[14-Sep-2011 10:20:58] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[14-Sep-2011 10:20:58] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[14-Sep-2011 10:20:58] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[14-Sep-2011 10:20:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[14-Sep-2011 10:23:55] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[14-Sep-2011 10:23:55] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[14-Sep-2011 10:23:55] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[14-Sep-2011 10:23:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[14-Sep-2011 10:27:29] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[14-Sep-2011 10:27:29] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[14-Sep-2011 10:27:29] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[14-Sep-2011 10:27:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[14-Sep-2011 10:32:43] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[14-Sep-2011 10:32:43] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[14-Sep-2011 10:32:43] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[14-Sep-2011 10:32:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[14-Sep-2011 10:33:24] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[14-Sep-2011 10:33:24] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[14-Sep-2011 10:33:24] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[14-Sep-2011 10:33:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[14-Sep-2011 10:35:38] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[14-Sep-2011 10:35:38] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[14-Sep-2011 10:35:38] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[14-Sep-2011 10:35:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[19-Sep-2011 13:24:14] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[19-Sep-2011 13:24:14] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[19-Sep-2011 13:24:14] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[19-Sep-2011 13:24:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Sep-2011 08:33:20] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Sep-2011 08:33:20] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Sep-2011 08:33:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Sep-2011 08:33:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Sep-2011 08:37:22] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Sep-2011 08:37:22] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Sep-2011 08:37:22] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Sep-2011 08:37:22] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[29-Sep-2011 08:37:25] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[29-Sep-2011 08:37:25] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[29-Sep-2011 08:37:25] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[29-Sep-2011 08:37:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[20-Oct-2011 10:44:16] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[20-Oct-2011 10:44:16] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[20-Oct-2011 10:44:16] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[20-Oct-2011 10:44:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[20-Oct-2011 10:47:58] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[20-Oct-2011 10:47:58] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[20-Oct-2011 10:47:58] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[20-Oct-2011 10:47:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[20-Oct-2011 10:48:43] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[20-Oct-2011 10:48:43] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[20-Oct-2011 10:48:43] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[20-Oct-2011 10:48:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[20-Oct-2011 10:49:51] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[20-Oct-2011 10:49:51] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[20-Oct-2011 10:49:51] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[20-Oct-2011 10:49:51] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[20-Oct-2011 10:54:30] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[20-Oct-2011 10:54:30] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[20-Oct-2011 10:54:30] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[20-Oct-2011 10:54:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[20-Oct-2011 10:58:51] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[20-Oct-2011 10:58:51] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[20-Oct-2011 10:58:51] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[20-Oct-2011 10:58:51] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[20-Oct-2011 11:01:52] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[20-Oct-2011 11:01:52] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[20-Oct-2011 11:01:52] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[20-Oct-2011 11:01:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[25-Oct-2011 05:40:38] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[25-Oct-2011 05:40:38] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[25-Oct-2011 05:40:38] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[25-Oct-2011 05:40:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[25-Oct-2011 07:33:38] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[25-Oct-2011 07:33:38] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[25-Oct-2011 07:33:38] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[25-Oct-2011 07:33:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[07-Dec-2011 08:35:35] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[07-Dec-2011 08:35:35] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[07-Dec-2011 08:35:35] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[07-Dec-2011 08:35:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[07-Dec-2011 08:36:15] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[07-Dec-2011 08:36:15] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[07-Dec-2011 08:36:15] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[07-Dec-2011 08:36:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[08-Dec-2011 10:19:55] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[08-Dec-2011 10:19:55] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[08-Dec-2011 10:19:55] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[08-Dec-2011 10:19:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[13-Dec-2011 10:09:48] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[13-Dec-2011 10:09:48] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[13-Dec-2011 10:09:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[13-Dec-2011 10:09:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[19-Dec-2011 08:28:26] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[19-Dec-2011 08:28:26] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[19-Dec-2011 08:28:26] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[19-Dec-2011 08:28:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[19-Dec-2011 08:30:26] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[19-Dec-2011 08:30:26] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[19-Dec-2011 08:30:26] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[19-Dec-2011 08:30:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[19-Dec-2011 08:37:53] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[19-Dec-2011 08:37:53] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[19-Dec-2011 08:37:53] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[19-Dec-2011 08:37:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[03-Jan-2012 07:53:50] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[03-Jan-2012 07:53:50] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[03-Jan-2012 07:53:50] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[03-Jan-2012 07:53:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[04-Jan-2012 08:54:00] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[04-Jan-2012 08:54:00] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[04-Jan-2012 08:54:00] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[04-Jan-2012 08:54:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 144
+[05-Jan-2012 10:57:09] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/allameri/public_html/cynergi/admin/details.php on line 119
+[05-Jan-2012 10:57:09] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 120
+[05-Jan-2012 10:57:09] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/allameri/public_html/cynergi/admin/details.php on line 122
+[05-Jan-2012 10:57:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allameri/public_html/cynergi/admin/details.php:119) in /home/allameri/public_html/cynergi/admin/details.php on line 146
+[14-Jun-2012 13:00:24] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-Jun-2012 13:00:25] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-Jun-2012 13:01:39] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-Jun-2012 13:01:39] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[16-Jun-2012 12:40:53] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[16-Jun-2012 12:40:53] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[16-Jun-2012 12:41:22] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[16-Jun-2012 12:41:22] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[24-Oct-2012 09:28:03] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/allameri/public_html/cynergi/admin/details.php on line 311
+[24-Oct-2012 09:28:31] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/allameri/public_html/cynergi/admin/details.php on line 311
+[24-Oct-2012 09:28:37] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/allameri/public_html/cynergi/admin/details.php on line 311
+[24-Oct-2012 09:28:46] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/allameri/public_html/cynergi/admin/details.php on line 311
+[02-Feb-2013 08:33:45] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[02-Feb-2013 08:33:45] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[02-Feb-2013 08:33:55] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[02-Feb-2013 08:33:55] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[02-Feb-2013 08:34:27] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[02-Feb-2013 08:34:27] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[18-Feb-2013 18:34:23] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[18-Feb-2013 18:34:23] PHP Fatal error:  Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[04-Mar-2013 14:57:35] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[04-Mar-2013 14:57:36] PHP Fatal error:  Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[04-Mar-2013 15:14:41] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[04-Mar-2013 15:14:41] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[04-Mar-2013 15:16:19] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[04-Mar-2013 15:16:19] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[04-Mar-2013 15:16:44] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[04-Mar-2013 15:16:44] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-May-2013 10:35:16] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-May-2013 10:35:16] PHP Fatal error:  Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-May-2013 10:35:19] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-May-2013 10:35:19] PHP Fatal error:  Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-May-2013 10:36:13] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-May-2013 10:36:13] PHP Fatal error:  Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-May-2013 10:39:30] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-May-2013 10:39:30] PHP Fatal error:  Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-May-2013 11:14:05] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-May-2013 11:14:05] PHP Fatal error:  Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-May-2013 11:14:09] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-May-2013 11:14:09] PHP Fatal error:  Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-May-2013 11:17:21] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-May-2013 11:17:22] PHP Fatal error:  Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-May-2013 11:18:15] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[14-May-2013 11:18:15] PHP Fatal error:  Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[01-Jul-2013 14:36:59] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9
+[01-Jul-2013 14:36:59] PHP Fatal error:  Too many connections in /home/allameri/public_html/cynergi/Connections/dplace.php on line 9

@@ -1,0 +1,105 @@
+
+	
+.mainouti {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: center;
+	color : #FFFFFF;
+	padding: 4px;
+	text-decoration: none;
+}
+.mainouto {
+	background: #FF0000;
+	border : 1px solid #400000;
+	margin: 0px;
+}	
+
+.mainoveri {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: center;
+	color : #FFFFFF;
+	padding: 4px;
+	text-decoration: underline;
+}
+
+.mainovero {
+	background: #FF0000;
+	border : 1px solid #400000;
+	margin: 0px;
+}	
+
+.maindowni {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;	
+	vertical-align: center;	
+	color : #FFFFFF;
+	padding: 4px;
+	text-decoration: underline;
+}
+
+
+.maindowno {
+	background: #FF0000;
+	border : 1px solid #400000;
+	margin: 0px;
+}	
+		
+	
+.sub1outi {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: left;
+	vertical-align: center;
+	color : #FFFFFF;
+	padding: 4px;
+	text-decoration: none;
+}
+.sub1outo {
+	background: #FF0000;
+	border : 1px solid #400000;
+	margin: 0px;
+}	
+
+.sub1overi {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: left;
+	vertical-align: center;
+	color : #FFFFFF;
+	padding: 4px;
+	text-decoration: underline;
+}
+
+.sub1overo {
+	background: #FF0000;
+	border : 1px solid #400000;
+	margin: 0px;
+}	
+
+.sub1downi {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: left;	
+	vertical-align: center;	
+	color : #FFFFFF;
+	padding: 4px;
+	text-decoration: underline;
+}
+
+
+.sub1downo {
+	background: #FF0000;
+	border : 1px solid #400000;
+	margin: 0px;
+}	
+		

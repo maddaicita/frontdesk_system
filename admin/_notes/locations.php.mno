@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user" value="name:users_id;datatype:int,name:last_name;datatype:string,name:first_name;datatype:string,name:user_admin;datatype:int" />
+	<infoitem key="UD_locations" value="name:loc_id;datatype:int,name:location;datatype:string,name:address;datatype:string" />
+	<infoitem key="UD_maximo" value="name:MAX(loc_id);datatype:int" />
+	<infoitem key="UD_maximo2" value="name:maxid;datatype:int" />
+</info>

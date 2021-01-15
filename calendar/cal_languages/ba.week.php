@@ -1,0 +1,9 @@
+<?php
+$week[1]="Igandea";
+$week[2]="Astelehena";
+$week[3]="Asteartea";
+$week[4]="Asteazkena";
+$week[5]="Osteguna";
+$week[6]="Ostirala";
+$week[7]="Larunbata";
+?>

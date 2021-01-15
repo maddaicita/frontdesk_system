@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user" value="name:users_id;datatype:int,name:last_name;datatype:string,name:first_name;datatype:string,name:user_admin;datatype:int" />
+	<infoitem key="UD_employees" value="name:users_id;datatype:int,name:id_finger;datatype:int,name:last_name;datatype:string,name:middle_name;datatype:string,name:first_name;datatype:string,name:picture;datatype:string,name:email;datatype:string,name:ssn;datatype:string,name:ssn2;datatype:blob,name:address;datatype:string,name:city;datatype:int,name:state;datatype:string,name:zipcode;datatype:string,name:cellphone;datatype:string,name:homephone;datatype:string,name:position;datatype:int,name:pay_rate;datatype:real,name:loc_id;datatype:int,name:license_class;datatype:string,name:license_number;datatype:string,name:license_training;datatype:int,name:exp_license;datatype:date,name:date_hired;datatype:string,name:date_fired;datatype:date,name:username;datatype:string,name:password;datatype:string,name:user_enabled;datatype:int,name:last_update;datatype:datetime,name:user_admin;datatype:int,name:location;datatype:string" />
+	<infoitem key="UD_prop" value="name:loc_id;datatype:int,name:location;datatype:string,name:address;datatype:string" />
+	<infoitem key="UD_loc_title" value="name:loc_id;datatype:int,name:location;datatype:string,name:address;datatype:string" />
+</info>

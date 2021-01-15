@@ -1,0 +1,27 @@
+Cameras network 
+
+admin
+targus25
+
+user
+3043
+
+STORAGE
+AES  WPA2
+A270241DA4
+
+ports
+192.168.2.54
+3043
+192.168.2.55
+3044
+
+
+
+
+
+allamerican
+allamerican30433041
+
+
+

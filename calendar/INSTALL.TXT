@@ -1,0 +1,27 @@
+Calendarix requires PHP and MySQL running on the web server.  You will need some basic knowledge of PHP and MySQL to install and change some settings to suit your server. 
+
+
+Import the create_cal.sql in the "admin" folder into your MySQL database.
+
+If you use the console: 
+mysql -u username -p
+create calendar; (if necessary change the name)
+use calendar;
+source create_cal.sql;
+quit;
+
+If you use phpMyAdmin: go to the database and import the text file "create_cal.sql". 
+
+Open "cal_db.inc.php" and check the database references. Check that the database name, database login name, password and host are correct. Make the necessary changes and save the file as "cal_db.inc.php".
+
+That's it!
+===========================================================================================
+
+To change the calendar controls and text, open "cal_config.inc.php" and change the variables. 
+
+For customisation of the calendar colors and font, edit the "default.css", "default.color.php" and "default.menu.css" in the "themes" folder.  Themes can be created for the files and saved with theme name as the prefix, eg. "default" is the theme for the files just mentioned and the theme can be set for the variable $theme in the "cal_config.inc.php" file.
+
+
+Be sure to allow access to the sub-directories under your calendarix path.
+
+You can customise the login page for calendarix by editing the html files "callogin_top.html" and "callogin_bottom.html".

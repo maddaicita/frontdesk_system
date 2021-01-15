@@ -1,0 +1,9 @@
+<?php
+$week[1]="Duminica";
+$week[2]="Luni";
+$week[3]="Marti";
+$week[4]="Miercuri";
+$week[5]="Joi";
+$week[6]="Vineri";
+$week[7]="Sambata";
+?>

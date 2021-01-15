@@ -1,0 +1,22 @@
+SELECTED JUST BY DATE
+
+SELECT sch.sch_date, sft.shift_time, CONCAT(sch.sch_date," ", CONCAT(SUBSTRING(sft.shift_time,1,5), ":00")), fin.date_finger, us.last_name FROM schedule sch, tbl_fingerprint fin, tbl_users us, locations_shifts sft WHERE sch.users_id = us.users_id AND fin.id_emp = us.id_finger AND sft.shift_id=sch.shift_id AND sch.sch_date = SUBSTRING(fin.date_finger, 1,10)
+
+
+
+
+DETERMINE CHECK_IN DATE TIME
+
+SELECT sch.sch_date, sft.shift_time, fin.date_finger, us.last_name FROM schedule sch, tbl_fingerprint fin, tbl_users us, locations_shifts sft WHERE sch.users_id = us.users_id AND fin.id_emp = us.id_finger AND sft.shift_id=sch.shift_id AND sch.sch_date = SUBSTRING(fin.date_finger, 1,10) AND  DATE_SUB(CONCAT(sch.sch_date," ", CONCAT(SUBSTRING(sft.shift_time,1,5), ":00")), INTERVAL 15 MINUTE) < fin.date_finger AND DATE_ADD(CONCAT(sch.sch_date," ", CONCAT(SUBSTRING(sft.shift_time,1,5), ":00")), INTERVAL 15 MINUTE) > fin.date_finger AND fin.status = 0
+
+DETERMINE CHECK_OUT DATE TIME
+
+SELECT sch.sch_date, sft.shift_time, fin.date_finger, us.last_name FROM schedule sch, tbl_fingerprint fin, tbl_users us, locations_shifts sft WHERE sch.users_id = us.users_id AND fin.id_emp = us.id_finger AND sft.shift_id=sch.shift_id AND sch.sch_date = SUBSTRING(fin.date_finger, 1,10) AND  DATE_SUB(CONCAT(sch.sch_date," ", CONCAT(SUBSTRING(sft.shift_time,10,5), ":00")), INTERVAL 15 MINUTE) < fin.date_finger AND DATE_ADD(CONCAT(sch.sch_date," ", CONCAT(SUBSTRING(sft.shift_time,10,5), ":00")), INTERVAL 15 MINUTE) > fin.date_finger AND fin.status = 0
+
+
+//LEFT JOIN
+
+SELECT sch.sch_date, fin.date_finger FROM schedule sch LEFT JOIN tbl_fingerprint fin  ON sch.sch_date = SUBSTRING(fin.date_finger,1,10) WHERE sch.users_id=28 AND sch.sch_date >= '2013-12-01' AND sch.sch_date <= '2013-12-16' ORDER BY sch.sch_date
+
+
+

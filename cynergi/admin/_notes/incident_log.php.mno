@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_usuario" value="name:id_user;datatype:int,name:username;datatype:string,name:names;datatype:string,name:password;datatype:string,name:id_admin;datatype:int" />
+	<infoitem key="UD_log" value="name:incident_id;datatype:int,name:incident_number;datatype:string,name:type;datatype:string,name:location;datatype:string,name:date_start;datatype:date,name:time_start;datatype:string,name:complainant;datatype:string,name:completed_by;datatype:string" />
+</info>

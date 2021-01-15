@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_usuario" value="name:id_user;datatype:int,name:username;datatype:string,name:names;datatype:string,name:password;datatype:string,name:id_admin;datatype:int" />
+	<infoitem key="UD_id" value="name:id_tennant;datatype:int,name:code;datatype:string,name:bldg;datatype:string,name:address;datatype:string,name:apt;datatype:string,name:names;datatype:string,name:phones;datatype:string,name:email;datatype:string,name:make1;datatype:string,name:model1;datatype:string,name:tag1;datatype:string,name:make2;datatype:string,name:model2;datatype:string,name:tag2;datatype:string,name:comments;datatype:string,name:picture;datatype:blob,name:id_admin;datatype:int" />
+	<infoitem key="UD_visitors" value="name:id_visitor;datatype:int,name:id_tennat;datatype:int,name:names;datatype:string,name:phones;datatype:string,name:autorized;datatype:string,name:chapa;datatype:string,name:make;datatype:string,name:model;datatype:string,name:comments;datatype:string,name:id_user;datatype:int" />
+</info>

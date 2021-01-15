@@ -1,0 +1,14 @@
+<?php
+$mth[1]="Janvier";
+$mth[2]="Février";
+$mth[3]="Mars";
+$mth[4]="Avril";
+$mth[5]="Mai";
+$mth[6]="Juin";
+$mth[7]="Juillet";
+$mth[8]="Août";
+$mth[9]="Septembre";
+$mth[10]="Octobre";
+$mth[11]="Novembre";
+$mth[12]="Décembre";
+?>
